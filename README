@@ -1,0 +1,66 @@
+This is the MPTP2078 benchmark for automated reasoning in large theories (ARLT).
+
+There are 2078 problems in the benchmark, created by the MPTP system
+from 33 Mizar articles leading to the proof of the Bolzano-Weierstrass
+theorem. The MML version used is 7.11.07_4.156.1112
+(ftp://mizar.uwb.edu.pl/pub/system/i386-linux/mizar-7.11.07_4.156.1112-i386-linux.tar).
+
+For copyright and copying information, see the files COPYING* in this
+directory. The paper about the benchmark is now available as pre-print
+at http://arxiv.org/abs/1108.3446 . Use the published (probably JAR)
+version for citation when it appears.
+
+
+Files:
+
+chainy/*: (packed to chainy.tar.7z in the github version)
+
+  The 2078 problems with all previous knowledge included (the large,
+  hard problems). This emulates the scenario of proving new
+  conjectures over a large mathematical library.
+
+
+chainy_incl/*
+
+  Same as chainy, but using the TPTP inclusion directive.
+
+
+bushy/*:
+
+  The 2078 problems with as little dependencies as possible, computed
+  by the Mizar dependency analysis. This emulates the scenario when
+  knowledgable users select the premises for a new conjecture
+  manually, and ask ATPs to find a proof.
+
+
+headers/*
+
+  TPTP header information for the problems, specifying the author,
+  problem, article, and domain.
+
+
+Bibliography:
+
+  Bibliographical information about the Mizar articles used.
+
+
+ArticlesInMMLOrder:
+
+  List of the 33 articles used in their MML order.
+
+
+ProblemsInMMLOrder:
+
+  List of the 2078 problems in their MML order.
+
+
+COPYING*:
+ 
+  Copying and copyright information.
+
+
+
+Have fun!
+
+Josef Urban
+firstname@lastname@gmail.com
