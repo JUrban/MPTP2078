@@ -1,0 +1,11 @@
+C fof(t89_mcart_1, axiom,  (! [A] :  (! [B] :  (! [C] :  (! [D] :  (! [E] :  (! [F] :  (k17_mcart_1(k4_tarski(k4_tarski(A, B), C))=A &  (k18_mcart_1(k4_tarski(k4_tarski(A, B), C))=B &  (k19_mcart_1(k4_tarski(F, k4_tarski(D, E)))=D & k20_mcart_1(k4_tarski(F, k4_tarski(D, E)))=E) ) ) ) ) ) ) ) ) ).
++ fof(d14_mcart_1, axiom,  (! [A] : k17_mcart_1(A)=k1_mcart_1(k1_mcart_1(A))) ).
++ fof(d15_mcart_1, axiom,  (! [A] : k18_mcart_1(A)=k2_mcart_1(k1_mcart_1(A))) ).
++ fof(d16_mcart_1, axiom,  (! [A] : k19_mcart_1(A)=k1_mcart_1(k2_mcart_1(A))) ).
++ fof(d17_mcart_1, axiom,  (! [A] : k20_mcart_1(A)=k2_mcart_1(k2_mcart_1(A))) ).
++ fof(t7_mcart_1, axiom,  (! [A] :  (! [B] :  (k1_mcart_1(k4_tarski(A, B))=A & k2_mcart_1(k4_tarski(A, B))=B) ) ) ).
+- fof(d3_mcart_1, axiom,  (! [A] :  (! [B] :  (! [C] : k3_mcart_1(A, B, C)=k4_tarski(k4_tarski(A, B), C)) ) ) ).
+- fof(d4_mcart_1, axiom,  (! [A] :  (! [B] :  (! [C] :  (! [D] : k4_mcart_1(A, B, C, D)=k4_tarski(k3_mcart_1(A, B, C), D)) ) ) ) ).
+- fof(t31_mcart_1, axiom,  (! [A] :  (! [B] :  (! [C] :  (! [D] : k4_mcart_1(A, B, C, D)=k4_tarski(k4_tarski(k4_tarski(A, B), C), D)) ) ) ) ).
+- fof(d2_zfmisc_1, axiom,  (! [A] :  (! [B] :  (! [C] :  (C=k2_zfmisc_1(A, B) <=>  (! [D] :  (r2_hidden(D, C) <=>  (? [E] :  (? [F] :  (r2_hidden(E, A) &  (r2_hidden(F, B) & D=k4_tarski(E, F)) ) ) ) ) ) ) ) ) ) ).
+- fof(d2_mcart_1, axiom,  (! [A] :  ( (? [B] :  (? [C] : A=k4_tarski(B, C)) )  =>  (! [B] :  (B=k2_mcart_1(A) <=>  (! [C] :  (! [D] :  (A=k4_tarski(C, D) => B=D) ) ) ) ) ) ) ).

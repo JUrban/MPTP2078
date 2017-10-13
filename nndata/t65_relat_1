@@ -1,0 +1,5 @@
+C fof(t65_relat_1, axiom,  (! [A] :  (v1_relat_1(A) =>  (k1_relat_1(A)=k1_xboole_0 <=> k2_relat_1(A)=k1_xboole_0) ) ) ).
++ fof(t60_relat_1, axiom,  (k1_relat_1(k1_xboole_0)=k1_xboole_0 & k2_relat_1(k1_xboole_0)=k1_xboole_0) ).
++ fof(t64_relat_1, axiom,  (! [A] :  (v1_relat_1(A) =>  ( (k1_relat_1(A)=k1_xboole_0 | k2_relat_1(A)=k1_xboole_0)  => A=k1_xboole_0) ) ) ).
+- fof(d4_relat_1, axiom,  (! [A] :  (! [B] :  (B=k1_relat_1(A) <=>  (! [C] :  (r2_hidden(C, B) <=>  (? [D] : r2_hidden(k4_tarski(C, D), A)) ) ) ) ) ) ).
+- fof(d5_relat_1, axiom,  (! [A] :  (! [B] :  (B=k2_relat_1(A) <=>  (! [C] :  (r2_hidden(C, B) <=>  (? [D] : r2_hidden(k4_tarski(D, C), A)) ) ) ) ) ) ).
