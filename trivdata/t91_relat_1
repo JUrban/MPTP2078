@@ -1,0 +1,11 @@
+C t91_relat_1
++ commutativity_k3_xboole_0
++ idempotence_k3_xboole_0
++ t18_zfmisc_1
++ t28_xboole_1
++ t90_relat_1
+- t86_relat_1
+- d4_xboole_0
+- dt_k7_relat_1
+- d4_relat_1
+- d3_tarski

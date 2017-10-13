@@ -1,0 +1,17 @@
+C t12_setfam_1
++ d4_xboole_0
++ d7_xboole_0
++ t10_setfam_1
++ t11_setfam_1
++ t17_zfmisc_1
++ t41_enumset1
++ t4_xboole_0
++ t51_zfmisc_1
+- d1_setfam_1
+- t4_setfam_1
+- d3_tarski
+- t3_xboole_1
+- t5_setfam_1
+- t2_setfam_1
+- t6_setfam_1
+- t2_xboole_1

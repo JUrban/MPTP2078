@@ -1,0 +1,17 @@
+C t2_lattice3
++ d10_xboole_0
++ d3_lattices
++ dt_k1_lattice3
++ dt_l3_lattices
++ fc1_lattice3
++ t11_xboole_1
++ t12_xboole_1
++ t1_lattice3
+- t21_lattices
+- d8_lattices
+- d9_lattices
+- d5_lattices
+- t25_lattices
+- redefinition_r3_lattices
+- t4_filter_0
+- t26_lattices

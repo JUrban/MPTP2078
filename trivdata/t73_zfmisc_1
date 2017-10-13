@@ -1,0 +1,15 @@
+C t73_zfmisc_1
++ commutativity_k2_tarski
++ l1_zfmisc_1
++ l32_xboole_1
++ t2_xboole_1
++ t37_xboole_1
++ t38_zfmisc_1
++ t70_zfmisc_1
+- l38_zfmisc_1
+- t69_enumset1
+- d2_tarski
+- t77_enumset1
+- t72_zfmisc_1
+- t23_zfmisc_1
+- l35_zfmisc_1

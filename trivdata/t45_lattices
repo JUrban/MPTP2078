@@ -1,0 +1,13 @@
+C t45_lattices
++ cc1_lattices
++ dt_k6_lattices
++ dt_l3_lattices
++ redefinition_r3_lattices
++ t23_lattices
++ t43_lattices
+- d17_lattices
+- t44_lattices
+- redefinition_k3_lattices
+- d9_lattices
+- redefinition_k4_lattices
+- t41_lattices

@@ -1,0 +1,15 @@
+C t42_filter_1
++ cc3_lattices
++ cc4_lattices
++ d15_lattices
++ dt_k7_filter_1
++ fc2_filter_1
++ t40_filter_1
++ t41_filter_1
+- rc11_lattices
+- cc5_lattice2
+- rc12_lattices
+- cc6_lattices
+- cc5_lattices
+- t35_filter_1
+- t36_filter_1

@@ -1,0 +1,15 @@
+C t56_subset_1
++ commutativity_k2_tarski
++ d1_zfmisc_1
++ d2_subset_1
++ fc1_subset_1
++ l13_xboole_0
++ t38_zfmisc_1
++ t41_enumset1
+- t51_subset_1
+- d5_subset_1
+- t40_subset_1
+- t50_subset_1
+- t55_subset_1
+- d10_xboole_0
+- l3_subset_1

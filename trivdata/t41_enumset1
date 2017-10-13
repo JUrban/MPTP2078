@@ -1,0 +1,9 @@
+C t41_enumset1
++ d1_tarski
++ d2_tarski
++ d3_xboole_0
++ t1_xboole_0
+- commutativity_k2_tarski
+- t39_xboole_1
+- commutativity_k2_xboole_0
+- d5_xboole_0

@@ -1,0 +1,13 @@
+C t17_lattices
++ commutativity_k4_lattices
++ d8_lattices
++ d9_lattices
++ dt_k1_lattices
++ dt_l3_lattices
++ redefinition_k4_lattices
+- d1_lattices
+- dt_k4_lattices
+- existence_l3_lattices
+- t57_orders_2
+- irreflexivity_r2_orders_2
+- t160_orders_2

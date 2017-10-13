@@ -1,0 +1,9 @@
+C t18_lattices
++ d9_lattices
++ dt_l3_lattices
++ redefinition_k4_lattices
++ t17_lattices
+- commutativity_k4_lattices
+- d8_lattices
+- dt_k1_lattices
+- dt_k4_lattices

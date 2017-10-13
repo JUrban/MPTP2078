@@ -1,0 +1,17 @@
+C t24_mcart_1
++ fc10_subset_1
++ fc6_relat_1
++ l13_xboole_0
++ t12_setfam_1
++ t137_zfmisc_1
++ t23_mcart_1
++ t2_subset
++ t32_relat_1
+- t7_mcart_1
+- t8_mcart_1
+- d1_relat_1
+- t10_mcart_1
+- d1_tarski
+- t16_mcart_1
+- t15_mcart_1
+- d2_zfmisc_1

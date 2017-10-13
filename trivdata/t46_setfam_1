@@ -1,0 +1,17 @@
+C t46_setfam_1
++ d5_xboole_0
++ d8_setfam_1
++ involutiveness_k7_setfam_1
++ l32_xboole_1
++ l35_zfmisc_1
++ t3_subset
++ t4_subset_1
++ t7_xboole_0
+- dt_k7_setfam_1
+- t2_tarski
+- t4_subset
+- t44_setfam_1
+- dt_o_2_1_setfam_1
+- t105_zfmisc_1
+- d5_subset_1
+- d2_subset_1

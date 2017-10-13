@@ -1,0 +1,17 @@
+C t39_relset_1
++ cc1_relset_1
++ redefinition_k1_relset_1
++ redefinition_k2_relset_1
++ redefinition_k7_relset_1
++ redefinition_k8_relset_1
++ t146_relat_1
++ t169_relat_1
++ t38_relset_1
+- t3_subset
+- dt_k2_relset_1
+- dt_k1_relset_1
+- d10_xboole_0
+- cc2_relat_1
+- fc6_relat_1
+- t24_relset_1
+- t30_relset_1

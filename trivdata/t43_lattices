@@ -1,0 +1,15 @@
+C t43_lattices
++ cc1_lattices
++ commutativity_k4_lattices
++ d17_lattices
++ d9_lattices
++ dt_k6_lattices
++ dt_l3_lattices
++ redefinition_k4_lattices
+- d8_lattices
+- t31_lattices
+- t32_lattices
+- t34_lattices
+- t40_lattices
+- t19_lattices
+- d16_lattices

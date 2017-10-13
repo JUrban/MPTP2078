@@ -1,0 +1,7 @@
+C t17_setfam_1
++ d10_xboole_0
++ d2_setfam_1
++ d3_tarski
+- reflexivity_r1_setfam_1
+- t34_xboole_1
+- t31_subset_1

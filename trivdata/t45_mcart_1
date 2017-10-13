@@ -1,0 +1,17 @@
+C t45_mcart_1
++ commutativity_k2_tarski
++ d3_mcart_1
++ d3_zfmisc_1
++ l51_zfmisc_1
++ l53_enumset1
++ t132_zfmisc_1
++ t32_relat_1
++ t41_mcart_1
+- t40_mcart_1
+- t43_mcart_1
+- t44_mcart_1
+- t36_zfmisc_1
+- t69_enumset1
+- t41_enumset1
+- t45_enumset1
+- t42_mcart_1

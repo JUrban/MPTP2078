@@ -1,0 +1,13 @@
+C t38_zfmisc_1
++ d2_tarski
++ d3_tarski
++ idempotence_k2_xboole_0
++ t13_xboole_1
++ t37_zfmisc_1
++ t41_enumset1
+- t12_zfmisc_1
+- t26_zfmisc_1
+- t25_zfmisc_1
+- t1_xboole_1
+- d10_xboole_0
+- t28_zfmisc_1

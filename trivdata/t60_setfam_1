@@ -1,0 +1,11 @@
+C t60_setfam_1
++ d10_xboole_0
++ d12_setfam_1
++ dt_k5_setfam_1
++ redefinition_k5_setfam_1
++ t3_subset
+- t48_setfam_1
+- existence_m1_setfam_1
+- t47_setfam_1
+- involutiveness_k7_setfam_1
+- dt_k7_setfam_1

@@ -1,0 +1,13 @@
+C t27_lattices
++ d3_lattices
++ d7_lattices
++ d8_lattices
++ dt_k2_lattices
++ dt_l3_lattices
++ t21_lattices
+- d9_lattices
+- redefinition_k4_lattices
+- cc1_lattices
+- cc2_lattices
+- t17_lattices
+- t22_lattices

@@ -1,0 +1,13 @@
+C t17_funct_2
++ cc1_relset_1
++ cc2_relset_1
++ d18_relat_1
++ d3_tarski
++ d5_funct_1
++ redefinition_k2_relset_1
+- redefinition_k1_relset_1
+- t6_funct_2
+- d1_funct_2
+- t49_relset_1
+- t48_relset_1
+- t4_subset

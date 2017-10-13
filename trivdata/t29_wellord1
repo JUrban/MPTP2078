@@ -1,0 +1,7 @@
+C t29_wellord1
++ commutativity_k3_xboole_0
++ t26_wellord1
++ t28_xboole_1
+- idempotence_k3_xboole_0
+- t28_wellord1
+- t27_wellord1

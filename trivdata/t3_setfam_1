@@ -1,0 +1,13 @@
+C t3_setfam_1
++ d1_setfam_1
++ d3_tarski
++ d4_tarski
++ t116_zfmisc_1
++ t2_xboole_1
++ t2_zfmisc_1
+- l49_zfmisc_1
+- t92_zfmisc_1
+- t2_setfam_1
+- t94_zfmisc_1
+- t95_zfmisc_1
+- t97_zfmisc_1

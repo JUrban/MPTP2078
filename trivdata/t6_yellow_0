@@ -1,0 +1,15 @@
+C t6_yellow_0
++ d8_lattice3
++ d9_lattice3
++ l3_subset_1
++ t2_xboole_1
++ t4_subset_1
++ t7_ordinal1
++ t7_tarski
+- t2_yellow_0
+- t5_yellow_0
+- t4_yellow_0
+- t26_orders_2
+- t28_lattice3
+- t30_lattice3
+- d3_lattice3

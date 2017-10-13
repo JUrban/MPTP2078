@@ -1,0 +1,15 @@
+C t65_orders_2
++ d10_xboole_0
++ d3_tarski
++ dt_k3_orders_2
++ t1_xboole_1
++ t3_subset
++ t57_orders_2
++ t7_subset_1
+- t64_orders_2
+- t4_subset
+- t29_orders_2
+- irreflexivity_r2_orders_2
+- d14_orders_2
+- t62_orders_2
+- t60_orders_2

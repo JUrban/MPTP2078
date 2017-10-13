@@ -1,0 +1,11 @@
+C t57_setfam_1
++ l51_zfmisc_1
++ symmetry_r1_xboole_0
++ t73_xboole_1
++ t96_zfmisc_1
++ t98_zfmisc_1
+- l49_zfmisc_1
+- t94_zfmisc_1
+- d3_tarski
+- t92_zfmisc_1
+- d4_tarski

@@ -1,0 +1,11 @@
+C t1_zfmisc_1
++ d1_tarski
++ d1_zfmisc_1
++ t2_xboole_1
++ t3_xboole_1
++ t96_enumset1
+- t69_enumset1
+- t41_enumset1
+- t91_enumset1
+- t87_enumset1
+- t82_enumset1
